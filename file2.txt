@@ -1,1 +1,2 @@
 Other branch file 2 line 1
+My branch file 2 line 2
