@@ -1,3 +1,4 @@
 Test #1
 Test #2
 Other branch adding line 3
+Test #4
